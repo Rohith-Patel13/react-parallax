@@ -1,0 +1,24 @@
+.mainBg{
+  border: 1px solid transparent;
+  min-height: 100vh;
+
+}
+
+.image{
+  position: relative;
+  height: 100vh;
+  background-size: cover;
+}
+
+.text{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.textPara{
+  color: white;
+  font-size: 24px;
+}
